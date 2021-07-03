@@ -1,6 +1,6 @@
 - Hi, I’m Nicolas Martinez
 - I’m interested in web development
-- Currently i have ukwnoledge in html and 
+- Currently i have knowledge in HTML and CSS
 - I’m currently learning JavaScript
 - I'm looking for a company in which I can increase my knowledge and meet people with the same interests
 - You can find me by @nicomarttinez14 on Instagram and @nicoo_mtz on Twitter
