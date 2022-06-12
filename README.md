@@ -1,6 +1,6 @@
 - Hi, I’m Nicolas Martinez
 - I’m interested in web development
-- Currently i have knowledge in HTML, CSS, GIT, BOOTSTRAP, TailwindCSS, REACT
+- Currently i have knowledge in HTML, CSS, Git, Bootstrap, TailwindCSS, React.js
 - I'm looking for a company in which I can increase my knowledge and meet people with the same interests
 - My contact email is: martineznicolas551@gmail.com 
 - You can find me by @nicoomartinez14 on Instagram and @nicoo_mtz on Twitter
